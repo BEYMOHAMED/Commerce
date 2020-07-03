@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 9780596806750,
+      "title": "JavaScript Patterns: Build Better Applications with Coding and Design Patterns",
+      "seller": {
+        "lastName": "Stefanov",
+        "firstName": "Stoyan"
+      },
+      "price": 29.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51%2BSiphz7AL._SL200_.jpg"
+    },
+    {
+      "id": 9780596517748,
+      "title": "JavaScript: The Good Parts",
+      "seller": {
+        "lastName": "Crockford",
+        "firstName": "Douglas"
+      },
+      "price": 29.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SL200_.jpg"
+    },
+    {
+      "id": 9781449331818,
+      "title": "Learning JavaScript Design Patterns",
+      "seller": {
+        "lastName": "Osmani",
+        "firstName": "Addy"
+      },
+      "price": 44.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51jEMnP6UGL._SL200_.jpg"
+    },
+    {
+      "id": 9781593279509,
+      "title": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+      "seller": {
+        "lastName": "Haverbeke",
+        "firstName": "Marijn"
+      },
+      "price": 39.95,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SL200_.jpg"
+    },
+    {
+      "id": 9781617292859,
+      "title": "Secrets of the JavaScript Ninja, Second Edition",
+      "seller": {
+        "lastName": "Resig",
+        "firstName": "John"
+      },
+      "price": 44.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51sxvZlbH5L._SL200_.jpg"
+    },
+    {
+      "id": 9780132350884,
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "seller": {
+        "lastName": "Martin",
+        "firstName": "Robert C."
+      },
+      "price": 34.47,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TINACY3hL._SL200_.jpg"
+    },
+    {
+      "id": 9780201633610,
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "seller": [
+        {
+          "lastName": "Gamma",
+          "firstName": "Erich "
+        },
+        {
+          "lastName": "Helm",
+          "firstName": "Richard "
+        },
+        {
+          "lastName": "Johnson",
+          "firstName": "Ralph "
+        },
+        {
+          "lastName": "Vlissides",
+          "firstName": "John"
+        }
+      ],
+      "price": 34.47,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51szD9HC9pL._SL200_.jpg"
+    }
+  ]
+}
